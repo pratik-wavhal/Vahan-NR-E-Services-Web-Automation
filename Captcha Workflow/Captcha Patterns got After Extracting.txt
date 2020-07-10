@@ -1,0 +1,6 @@
+Which one lesser 1 , 3 =
+Which one lesser 8, 2 =
+Which one Is greater 10, 7 =
+1 + 5 =
+1 * 5 =
+1 - 5 =
